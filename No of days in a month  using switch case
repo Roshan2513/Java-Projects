@@ -1,6 +1,6 @@
 public class Switch {
     public static void main(String[] args) {
-       //isLeapYear(2018);
+        isLeapYear(2018);
         getDaysInMonth(1,2020);
     }
     public static boolean isLeapYear(int year)
@@ -24,8 +24,6 @@ public class Switch {
                return false;}
 
         }
-
-
 
     }
 
